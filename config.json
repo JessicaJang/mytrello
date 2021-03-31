@@ -1,0 +1,8 @@
+{
+    "api": "trello",
+    "ver": "1.0",
+    "apikey": "4ff34c6f847110b54ccd398dae5b06f5",
+    "secret": "fcf6077ba41ea15bbe8c712e2f8159ed6c5fc9b3bcbcc56cafc2f27c826b0f5c",
+    "documentation": "https://developers.trello.com/reference#introduction",
+    "url": "https://api.trello.com/"
+}
